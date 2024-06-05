@@ -16,7 +16,7 @@ The player is given six jumbled letters, and must arrange the letters in the jum
 
 
 ## Live Demo:
-
+- https://guessstheword.vercel.app/
 
 
 
