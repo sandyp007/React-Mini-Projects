@@ -1,6 +1,7 @@
 # React Calculator App
 
-![React Calculator](https://your-image-url-here.com/cover.png) <!-- Replace with your cover image URL -->
+![cal](https://github.com/sandyp007/React-Mini-Projects/assets/108931503/493f5151-422b-4c35-b9ee-b63ab1d54342)
+
 
 ## 🚀 Overview
 
@@ -13,9 +14,6 @@ Welcome to the **React Calculator App**! This is a simple yet powerful calculato
 - **Keyboard Support**: Use your keyboard for input.
 - **Clear Button**: Easily reset the calculator.
 
-## 🖼️ Screenshots
-
-![Calculator Screenshot](https://your-image-url-here.com/screenshot.png) <!-- Replace with your screenshot URL -->
 
 ## 📦 Installation
 
@@ -24,5 +22,5 @@ Follow these steps to get a local copy up and running:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/react-calculator.git
-   cd react-calculator
+   git clone https://github.com/sandyp007/React-Mini-Projects.git
+   cd calculator
