@@ -14,8 +14,6 @@ The player is given six jumbled letters, and must arrange the letters in the jum
 - Profanity.
 - Words with less than three letters.
 
-## Gallery:
-https://imgur.com/a/bk5TeWA
 
 ## Live Demo:
 
