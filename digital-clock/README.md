@@ -9,7 +9,7 @@
 - Remake of the javaScript digital clock project with React
 
 ## Project Link
-#### You can reach my project from [here](https://react-digital-clock-date.netlify.app/) 👈
+#### You can reach my project from [here](https://digiclockk.vercel.app/) 👈
 
 ## Project Skeleton
 
