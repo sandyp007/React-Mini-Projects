@@ -46,8 +46,8 @@ SOLUTION
 ```
 $ git clone https://github.com/sandyp007/React-Mini-Projects.git
 $ cd ../digital-clock
-$ npm install / yarn
-$ npm start / yarn start
+$ npm install 
+$ npm start 
 ```
 
 ### Preview of the Project
