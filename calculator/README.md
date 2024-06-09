@@ -1,4 +1,4 @@
-# React Calculator App
+# Calculator App
 
 ![cal](https://github.com/sandyp007/React-Mini-Projects/assets/108931503/493f5151-422b-4c35-b9ee-b63ab1d54342)
 
